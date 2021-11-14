@@ -1,0 +1,11 @@
+{
+  "name": "module_lesson",
+  "version": "0.0.1",
+  "description": "study node lesson1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Slava",
+  "license": "ISC"
+}
